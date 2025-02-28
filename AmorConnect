@@ -1,0 +1,26 @@
+
+AmorConnect/
+├── app/
+│   ├── __init__.py
+│   ├── models/
+│   │   ├── __init__.py
+│   │   ├── user.py
+│   │   ├── post.py
+│   ├── routes/
+│   │   ├── __init__.py
+│   │   ├── index.py
+│   │   ├── login.py
+│   │   ├── register.py
+│   ├── templates/
+│   │   ├── index.html
+│   │   ├── login.html
+│   │   ├── register.html
+│   ├── static/
+│   │   ├── css/
+│   │   │   ├── style.css
+│   │   ├── js/
+│   │   │   ├── script.js
+├── config.py
+├── requirements.txt
+├── .gitignore
+└── README.md
